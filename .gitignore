@@ -1,0 +1,25 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Dataset (download separately from Kaggle)
+data/creditcard.csv
+
+# Generated prediction files
+outputs/test_transactions.csv
+outputs/fraud_predictions.csv
+
+# Uploaded files
+uploads/
+
+# IDE settings
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
